@@ -64,4 +64,4 @@
 - [CryonicsX](https://github.com/CryonicsX) - this kid selling my solver LMAO (https://media.discordapp.net/attachments/943968212251467877/947079061757366282/unknown.png)
 - [ExordiumX](https://github.com/ExordiumX)
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github
-- [Anarchy skid list](https://github.com/notperry12345678902/anarchy-skid-list)
+- [Anarchy skid list](https://github.com/master7720/anarchy-skid-list)
